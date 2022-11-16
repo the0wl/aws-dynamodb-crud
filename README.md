@@ -1,6 +1,4 @@
-<center>
-  <img src="/assets/dynamodb.jpg" alt="dynamodb logo" style=""/>
-</center>
+<p align="center"><img src="/assets/dynamodb.jpg" alt="dynamodb logo" style=""/></p>
 
 # CRUD DynamoDB utilizando Node.js
 
@@ -18,9 +16,7 @@ No modelo de negócio do AirBnb, por exemplo, foi optado por implementar o Dynam
 
 Para a definição do modelo, com base na estrutura aceita pelo DynamoDB, foi criado um protótipo de estrutura, simulando o armazenamento de avaliações em relação às propriedades e também em relação aos usuários locatários.
 
-<center>
-  <img src="/assets/table_example.png" alt="table example" style=""/>
-</center>
+<p align="center"><img src="/assets/table_example.png" alt="table example" style=""/></p>
 
 ## Endpoints
 
